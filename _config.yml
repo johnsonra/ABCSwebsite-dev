@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: ABCS
 future: true
-url: https://dev.abcsfrederick.info
+url: https://johnsonra.github.io
+baseurl: /ABCSwebsite-dev
